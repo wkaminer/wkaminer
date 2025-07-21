@@ -2,7 +2,7 @@
 
 Pixel pusher, code crafter & [AI](https://huggingface.co/) enthusiast.
 
-My work lately involves an indie game project, iOS applicatoin and some product design consulting.
+My work lately involves an iOS project, indie game project and some product design consulting.
 
 ### 🥞 Stack
 
