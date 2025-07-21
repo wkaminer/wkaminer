@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Wes
 
-Pixel pusher, code crafter and [AI](https://huggingface.co/) enthusiast.
+Pixel pusher, code crafter & [AI](https://huggingface.co/) enthusiast.
 
 My work lately involves an indie game project, iOS applicatoin and some product design consulting.
 
