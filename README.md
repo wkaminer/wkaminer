@@ -8,7 +8,7 @@ My work lately involves an iOS project, indie game project and some product desi
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,figma,neovim,godot,swift,html,css,js,py,lua,rust" />
+    <img src="https://skillicons.dev/icons?i=linux,apple,figma,neovim,html,css,js,py,lua,rust,swift,godot" />
   </a>
 </p>
 
