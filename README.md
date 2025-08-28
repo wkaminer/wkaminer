@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Wes
+## 👋 Hello, I'm ウェス
 
 Pixel Pusher, Code Crafter & [AI](https://huggingface.co/) Enthusiast.
 
