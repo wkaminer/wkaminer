@@ -6,6 +6,8 @@ I create digital tools for calm, clarity and focus.
 
 My work lately involves an iOS project, indie game project and some product design consulting.
 
+Get the [Daily Highlights (calendar/planner)](https://wkaminer.gumroad.com/l/dailyhighlights) I put together to help me stay on track with my game project — it might help you too.
+
 ### 🥞 Stack
 
 <p align="left">
