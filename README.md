@@ -12,7 +12,7 @@ Get the [Daily Highlights (calendar/planner)](https://wkaminer.gumroad.com/l/dai
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,apple,figma,neovim,html,css,js,py,lua,rust,swift,godot" />
+    <img src="https://skillicons.dev/icons?i=linux,apple,figma,neovim,html,css,js,py,lua,rust,swift,godot" />
   </a>
 </p>
 
