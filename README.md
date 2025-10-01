@@ -4,7 +4,7 @@ Pixel Pusher, Code Crafter & [AI](https://huggingface.co/) Enthusiast.
 
 I create digital tools for calm, clarity and focus.
 
-My work lately involves an iOS project, indie game project and some product design consulting.
+My work lately involves an indie game project, and some product design consulting.
 
 ### 🥞 Stack
 
