@@ -10,7 +10,7 @@ My work lately involves an indie game project, and some product design consultin
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,apple,figma,neovim,html,css,js,py,lua,rust,swift,godot" />
+    <img src="https://skillicons.dev/icons?i=apple,figma,neovim,html,css,js,py,lua,rust,swift" />
   </a>
 </p>
 
