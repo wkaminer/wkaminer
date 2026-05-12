@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Wes
 
-Pixel Pusher, Code Crafter & [AI](https://huggingface.co/) Enthusiast.
+Pixel Pusher, Code Crafter
 
 I create digital tools for calm, clarity and focus.
 
-My work lately involves an indie game project, and some product design consulting.
+My work lately involves an indie game project, along with some freelance consulting.
 
 ### 🥞 Stack
 
