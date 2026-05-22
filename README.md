@@ -4,13 +4,13 @@ Pixel Pusher, Code Crafter
 
 I create digital tools for calm, clarity and focus.
 
-My work lately involves an indie game project, along with some freelance consulting.
+My work lately involves a passion project that I've been developing for a few years now(no spoilers at this time), along with some freelance consulting.
 
 ### 🥞 Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,figma,neovim,html,css,js,lua,py,rust,swift" />
+    <img src="https://skillicons.dev/icons?i=neovim,py,html,css,sass,js,nextjs,ts,angular,react,nodejs,npm,docker,figma" />
   </a>
 </p>
 
